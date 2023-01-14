@@ -1,0 +1,13 @@
+pipeline{
+agent any
+stages{
+stage("My first stage"){
+steps{
+echo "THis is my first build number"
+echo "${env.BUILD_NUMNER}"
+env.
+}
+}
+
+}
+}
