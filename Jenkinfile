@@ -1,5 +1,5 @@
 pipeline{
-    sid
+    
 agent any
 stages{
 stage("My first stage"){
